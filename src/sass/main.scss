@@ -1,1 +1,36 @@
 /* CSS Entry Point */
+
+.app {
+	
+}
+ul {
+	border: 1px solid #D6D5D7;
+	width: 740px;
+}
+li {
+	font-family: 'Roboto', sans-serif;
+	font-size: 48px;
+	color: #bab8bc;
+	list-style-type: none;
+	border: 1px solid #D6D5D7;
+	margin: 15px;
+	width: 700px;
+	height: 100px;
+	background-color: #f0eff0;
+	border-radius: 15px;
+	// display: flex;
+	// justify-content: center;
+}
+
+
+span {
+	position: relative;
+	bottom: 40px;
+}
+
+
+img {
+	width: 80px;
+	margin: 15px;
+
+}
